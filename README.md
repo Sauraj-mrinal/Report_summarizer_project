@@ -144,7 +144,3 @@ The PDF contains the same content as the Markdown file but in a printable format
    - Ensure you are using Python 3.8 or higher.
 
 ---
-
-## Contact
-
-For any questions or issues, please contact [Suraj Kumar] at [1507surajkumar@gmail.com].
