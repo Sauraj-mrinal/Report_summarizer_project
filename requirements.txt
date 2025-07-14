@@ -1,0 +1,7 @@
+crewai
+litellm
+gitpython
+markdown
+pdfkit
+langchain_community
+langchain-openai
